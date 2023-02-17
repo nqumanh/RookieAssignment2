@@ -1,0 +1,49 @@
+.action-assignment {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.5);
+    opacity: 0.2;
+}
+
+.modal__header {
+    border-bottom: solid black 1px;
+    background-color: #eff1f5;
+    color: #e9424d;
+    font-weight: 900;
+}
+
+.modal__body {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.modal__btn {
+    display: block;
+    background-color: #e9424d;
+    color: white;
+    border: none;
+    transition: opacity linear 0.2s;
+}
+
+.modal__btn:hover {
+    background-color: #e9424d;
+    opacity: 0.8;
+}
+
+.input-group__label {
+    line-height: 30px;
+    padding-right: 10px;
+}
+
+.modal__imput-group {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.unabled-hover:hover {
+    background-color: transparent!important;
+}
+
+.icon-disabled-black {
+    pointer-events: none;
+    color: darkgray!important;
+}

@@ -1,0 +1,7999 @@
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Areas\Identity\Pages\Account\Login.cshtml
+FN:26,System.Void AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login/<<ExecuteAsync>b__31_3>d::MoveNext()
+FNDA:0,System.Void AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login/<<ExecuteAsync>b__31_3>d::MoveNext()
+DA:27,0
+DA:28,0
+DA:29,0
+DA:32,0
+DA:34,0
+DA:37,0
+BRDA:27,573,0,0
+BRDA:27,573,1,0
+BRDA:28,1283,0,0
+BRDA:28,1283,1,0
+BRDA:29,1917,0,0
+BRDA:29,1917,1,0
+BRDA:32,2537,0,0
+BRDA:32,2537,1,0
+BRDA:34,3247,0,0
+BRDA:34,3247,1,0
+BRDA:37,3883,0,0
+BRDA:37,3883,1,0
+FN:5,System.Void AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login/<ExecuteAsync>d__31::MoveNext()
+FNDA:0,System.Void AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login/<ExecuteAsync>d__31::MoveNext()
+DA:6,0
+DA:7,0
+DA:23,0
+DA:48,0
+BRDA:7,486,0,0
+BRDA:7,486,1,0
+BRDA:7,1004,0,0
+BRDA:7,1004,1,0
+BRDA:23,1540,0,0
+BRDA:23,1540,1,0
+BRDA:23,2104,0,0
+BRDA:23,2104,1,0
+BRDA:48,2727,0,0
+BRDA:48,2727,1,0
+LF:10
+LH:0
+BRF:22
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Program.cs
+FN:12,System.Void RookieOnlineAssetManagement.Program::Main(System.String[])
+FNDA:0,System.Void RookieOnlineAssetManagement.Program::Main(System.String[])
+DA:13,0
+DA:14,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:28,0
+DA:30,0
+FN:32,Microsoft.Extensions.Hosting.IHostBuilder RookieOnlineAssetManagement.Program::CreateHostBuilder(System.String[])
+FNDA:0,Microsoft.Extensions.Hosting.IHostBuilder RookieOnlineAssetManagement.Program::CreateHostBuilder(System.String[])
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+LF:20
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Startup.cs
+FN:24,Microsoft.Extensions.Configuration.IConfiguration RookieOnlineAssetManagement.Startup::get_Configuration()
+FNDA:0,Microsoft.Extensions.Configuration.IConfiguration RookieOnlineAssetManagement.Startup::get_Configuration()
+DA:25,0
+FN:28,System.Void RookieOnlineAssetManagement.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+FNDA:0,System.Void RookieOnlineAssetManagement.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+FN:88,System.Void RookieOnlineAssetManagement.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+FNDA:0,System.Void RookieOnlineAssetManagement.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+BRDA:95,81,0,0
+BRDA:95,81,1,0
+BRDA:125,31,0,0
+BRDA:125,31,1,0
+FN:19,System.Void RookieOnlineAssetManagement.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+FNDA:0,System.Void RookieOnlineAssetManagement.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+LF:95
+LH:0
+BRF:4
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Repositories\AssetRepository.cs
+FN:25,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+FN:105,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<AssetCreateAsync>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<AssetCreateAsync>d__6::MoveNext()
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:123,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+BRDA:108,250,0,0
+BRDA:108,250,1,0
+BRDA:112,283,0,0
+BRDA:112,283,1,0
+FN:292,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<CheckAssetCanDeleteAsync>d__11::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<CheckAssetCanDeleteAsync>d__11::MoveNext()
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+FN:300,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<DeleteAssetAsync>d__12::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<DeleteAssetAsync>d__12::MoveNext()
+DA:301,0
+DA:302,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:310,0
+DA:311,0
+BRDA:304,187,0,0
+BRDA:304,187,1,0
+FN:267,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAsset>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAsset>d__9::MoveNext()
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+FN:33,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAssetsAsync>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAssetsAsync>d__4::MoveNext()
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:43,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+FN:52,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAvailableAssetsAsync>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetAvailableAssetsAsync>d__5::MoveNext()
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:66,0
+DA:67,0
+DA:69,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:75,0
+DA:77,0
+DA:78,0
+DA:81,0
+DA:82,0
+DA:84,0
+DA:85,0
+DA:87,0
+DA:88,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:96,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+BRDA:54,46,0,0
+BRDA:54,46,1,0
+BRDA:61,522,0,0
+BRDA:63,569,0,0
+BRDA:63,569,1,0
+BRDA:63,583,1,0
+BRDA:63,583,0,0
+BRDA:61,522,1,0
+BRDA:78,921,0,0
+BRDA:78,921,1,0
+BRDA:78,935,1,0
+BRDA:78,935,0,0
+FN:135,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetListAsset>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetListAsset>d__7::MoveNext()
+DA:136,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:198,0
+DA:199,0
+DA:201,0
+DA:202,0
+DA:204,0
+DA:205,0
+DA:207,0
+DA:208,0
+DA:211,0
+DA:212,0
+DA:215,0
+DA:216,0
+DA:218,0
+DA:219,0
+DA:221,0
+DA:222,0
+DA:224,0
+DA:225,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+BRDA:149,770,0,0
+BRDA:152,1372,1,0
+BRDA:154,887,0,0
+BRDA:154,887,1,0
+BRDA:152,1372,0,0
+BRDA:149,770,1,0
+BRDA:163,1417,0,0
+BRDA:163,1417,1,0
+BRDA:173,2124,0,0
+BRDA:177,2791,1,0
+BRDA:179,2247,0,0
+BRDA:179,2247,1,0
+BRDA:177,2791,0,0
+BRDA:189,2826,0,0
+BRDA:189,2826,1,0
+BRDA:173,2124,1,0
+BRDA:194,3074,0,0
+BRDA:195,3115,0,0
+BRDA:195,3129,0,0
+BRDA:195,3143,0,0
+BRDA:195,3115,1,0
+BRDA:195,3129,1,0
+BRDA:195,3143,1,0
+BRDA:195,3160,1,0
+BRDA:195,3160,0,0
+BRDA:194,3074,1,0
+BRDA:212,3529,0,0
+BRDA:212,3543,0,0
+BRDA:212,3557,0,0
+BRDA:212,3529,1,0
+BRDA:212,3543,1,0
+BRDA:212,3557,1,0
+BRDA:212,3574,1,0
+BRDA:212,3574,0,0
+BRDA:230,3940,0,0
+BRDA:230,3940,1,0
+BRDA:234,3981,0,0
+BRDA:234,3981,1,0
+FN:248,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetListHistoryOfAsset>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<GetListHistoryOfAsset>d__8::MoveNext()
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+FN:274,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<UpdateAssetAsync>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssetRepository/<UpdateAssetAsync>d__10::MoveNext()
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:288,0
+DA:289,0
+DA:291,0
+BRDA:277,334,0,0
+BRDA:277,334,1,0
+LF:227
+LH:0
+BRF:58
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Repositories\AssignmentRepository.cs
+FN:27,RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel RookieOnlineAssetManagement.Repositories.AssignmentRepository::GetAssignmentListOfUserById(System.String,System.String,System.String,System.Nullable`1<System.Int32>,System.Int32)
+FNDA:0,RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel RookieOnlineAssetManagement.Repositories.AssignmentRepository::GetAssignmentListOfUserById(System.String,System.String,System.String,System.Nullable`1<System.Int32>,System.Int32)
+DA:28,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:45,0
+DA:46,0
+DA:48,0
+DA:49,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:57,0
+DA:58,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:66,0
+DA:67,0
+DA:69,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:75,0
+DA:76,0
+DA:78,0
+DA:79,0
+DA:81,0
+DA:82,0
+DA:85,0
+DA:86,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+BRDA:38,432,0,0
+BRDA:40,453,0,0
+BRDA:42,478,0,0
+BRDA:42,492,0,0
+BRDA:42,509,0,0
+BRDA:42,526,0,0
+BRDA:42,478,1,0
+BRDA:42,492,1,0
+BRDA:42,509,1,0
+BRDA:42,526,1,0
+BRDA:42,543,1,0
+BRDA:42,543,0,0
+BRDA:40,453,1,0
+BRDA:61,1008,0,0
+BRDA:63,1033,0,0
+BRDA:63,1047,0,0
+BRDA:63,1064,0,0
+BRDA:63,1081,0,0
+BRDA:63,1033,1,0
+BRDA:63,1047,1,0
+BRDA:63,1064,1,0
+BRDA:63,1081,1,0
+BRDA:63,1098,1,0
+BRDA:63,1098,0,0
+BRDA:61,1008,1,0
+BRDA:38,432,1,0
+BRDA:85,1552,0,0
+BRDA:85,1552,1,0
+FN:215,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::Dispose(System.Boolean)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::Dispose(System.Boolean)
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+BRDA:217,12,0,0
+BRDA:219,18,0,0
+BRDA:219,18,1,0
+BRDA:217,12,1,0
+FN:227,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::Dispose()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::Dispose()
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+FN:20,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext)
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:213,0
+FN:113,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<AcceptAssignmentById>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<AcceptAssignmentById>d__5::MoveNext()
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+BRDA:119,376,0,0
+BRDA:119,376,1,0
+FN:284,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<CountAssignmentsAfterFilterAsync>d__15::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<CountAssignmentsAfterFilterAsync>d__15::MoveNext()
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+FN:149,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<CreateAssignmentAsync>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<CreateAssignmentAsync>d__8::MoveNext()
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+FN:127,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<DisabledAssignmentById>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<DisabledAssignmentById>d__6::MoveNext()
+DA:128,0
+DA:129,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+BRDA:131,448,0,0
+BRDA:131,448,1,0
+FN:192,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<EditAssignmentAsync>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<EditAssignmentAsync>d__10::MoveNext()
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:204,0
+DA:205,0
+DA:207,0
+DA:208,0
+DA:210,0
+DA:211,0
+BRDA:197,1022,0,0
+BRDA:197,1022,1,0
+FN:99,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentById>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentById>d__4::MoveNext()
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:109,0
+DA:110,0
+DA:111,0
+FN:169,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentEditById>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentEditById>d__9::MoveNext()
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+FN:233,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentsByFiltersAsync>d__14::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAssignmentsByFiltersAsync>d__14::MoveNext()
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+BRDA:249,1449,0,0
+BRDA:251,1501,0,0
+BRDA:251,1515,0,0
+BRDA:251,1532,0,0
+BRDA:251,1549,0,0
+BRDA:251,1566,0,0
+BRDA:251,1501,1,0
+BRDA:251,1515,1,0
+BRDA:251,1532,1,0
+BRDA:251,1549,1,0
+BRDA:251,1566,1,0
+BRDA:251,1583,1,0
+BRDA:251,1583,0,0
+BRDA:249,1449,1,0
+BRDA:262,2202,0,0
+BRDA:264,2254,0,0
+BRDA:264,2268,0,0
+BRDA:264,2285,0,0
+BRDA:264,2302,0,0
+BRDA:264,2319,0,0
+BRDA:264,2254,1,0
+BRDA:264,2268,1,0
+BRDA:264,2285,1,0
+BRDA:264,2302,1,0
+BRDA:264,2319,1,0
+BRDA:264,2336,1,0
+BRDA:264,2336,0,0
+BRDA:262,2202,1,0
+FN:140,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAsync>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.AssignmentRepository/<GetAsync>d__7::MoveNext()
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+LF:229
+LH:0
+BRF:66
+BRH:0
+FNF:13
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Repositories\CategoryRepository.cs
+FN:23,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+FN:47,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<CategoryCreateAsync>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<CategoryCreateAsync>d__6::MoveNext()
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:80,0
+DA:81,0
+BRDA:48,16,0,0
+BRDA:49,85,0,0
+BRDA:49,85,1,0
+BRDA:59,637,0,0
+BRDA:61,686,0,0
+BRDA:61,686,1,0
+BRDA:48,16,1,0
+BRDA:59,637,1,0
+FN:41,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<GetAllAsync>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<GetAllAsync>d__5::MoveNext()
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+FN:31,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<GetListCategory>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.CategoryRepository/<GetListCategory>d__4::MoveNext()
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+LF:46
+LH:0
+BRF:8
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Repositories\RepositoryBase.cs
+FN:11,RookieOnlineAssetManagement.Data.ApplicationDbContext RookieOnlineAssetManagement.Repositories.RepositoryBase`1::get__context()
+FNDA:0,RookieOnlineAssetManagement.Data.ApplicationDbContext RookieOnlineAssetManagement.Repositories.RepositoryBase`1::get__context()
+DA:12,0
+FN:17,System.Linq.IQueryable`1<T> RookieOnlineAssetManagement.Repositories.RepositoryBase`1::FindAll()
+FNDA:0,System.Linq.IQueryable`1<T> RookieOnlineAssetManagement.Repositories.RepositoryBase`1::FindAll()
+DA:18,0
+FN:19,System.Linq.IQueryable`1<T> RookieOnlineAssetManagement.Repositories.RepositoryBase`1::FindByCondition(System.Linq.Expressions.Expression`1<System.Func`2<T,System.Boolean>>)
+FNDA:0,System.Linq.IQueryable`1<T> RookieOnlineAssetManagement.Repositories.RepositoryBase`1::FindByCondition(System.Linq.Expressions.Expression`1<System.Func`2<T,System.Boolean>>)
+DA:20,0
+FN:20,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Create(T)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Create(T)
+DA:21,0
+FN:21,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Update(T)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Update(T)
+DA:22,0
+FN:22,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Delete(T)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::Delete(T)
+DA:23,0
+FN:13,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::.ctor(RookieOnlineAssetManagement.Data.ApplicationDbContext)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.RepositoryBase`1::.ctor(RookieOnlineAssetManagement.Data.ApplicationDbContext)
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Repositories\UserRepository.cs
+FN:21,System.Void RookieOnlineAssetManagement.Repositories.UserRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository::.ctor(AutoMapper.IMapper,RookieOnlineAssetManagement.Data.ApplicationDbContext,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+FN:114,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_3(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_3(RookieOnlineAssetManagement.Models.UserModel)
+DA:115,0
+BRDA:115,57,0,0
+BRDA:115,81,0,0
+BRDA:115,89,0,0
+BRDA:115,57,1,0
+BRDA:115,81,1,0
+BRDA:115,89,1,0
+FN:117,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_5(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_5(RookieOnlineAssetManagement.Models.UserModel)
+DA:118,0
+BRDA:118,57,0,0
+BRDA:118,81,0,0
+BRDA:118,89,0,0
+BRDA:118,57,1,0
+BRDA:118,81,1,0
+BRDA:118,89,1,0
+FN:123,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_7(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_7(RookieOnlineAssetManagement.Models.UserModel)
+DA:124,0
+BRDA:124,57,0,0
+BRDA:124,81,0,0
+BRDA:124,89,0,0
+BRDA:124,57,1,0
+BRDA:124,81,1,0
+BRDA:124,89,1,0
+FN:126,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_9(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_9(RookieOnlineAssetManagement.Models.UserModel)
+DA:127,0
+BRDA:127,62,0,0
+BRDA:127,86,0,0
+BRDA:127,94,0,0
+BRDA:127,62,1,0
+BRDA:127,86,1,0
+BRDA:127,94,1,0
+FN:132,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_11(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_11(RookieOnlineAssetManagement.Models.UserModel)
+DA:133,0
+BRDA:133,57,0,0
+BRDA:133,81,0,0
+BRDA:133,57,1,0
+BRDA:133,81,1,0
+FN:135,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_13(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<FindUser>b__6_13(RookieOnlineAssetManagement.Models.UserModel)
+DA:136,0
+BRDA:136,57,0,0
+BRDA:136,81,0,0
+BRDA:136,57,1,0
+BRDA:136,81,1,0
+FN:238,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_2(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_2(RookieOnlineAssetManagement.Models.UserModel)
+DA:239,0
+FN:243,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_3(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_3(RookieOnlineAssetManagement.Models.UserModel)
+DA:244,0
+FN:251,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_4(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_4(RookieOnlineAssetManagement.Models.UserModel)
+DA:252,0
+FN:256,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_5(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_5(RookieOnlineAssetManagement.Models.UserModel)
+DA:257,0
+FN:264,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_6(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_6(RookieOnlineAssetManagement.Models.UserModel)
+DA:265,0
+FN:269,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_7(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_7(RookieOnlineAssetManagement.Models.UserModel)
+DA:270,0
+FN:278,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_8(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_8(RookieOnlineAssetManagement.Models.UserModel)
+DA:279,0
+FN:283,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_9(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_9(RookieOnlineAssetManagement.Models.UserModel)
+DA:284,0
+FN:291,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_10(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_10(RookieOnlineAssetManagement.Models.UserModel)
+DA:292,0
+FN:296,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_11(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_11(RookieOnlineAssetManagement.Models.UserModel)
+DA:297,0
+FN:304,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_12(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_12(RookieOnlineAssetManagement.Models.UserModel)
+DA:305,0
+FN:309,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_13(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.String RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_13(RookieOnlineAssetManagement.Models.UserModel)
+DA:310,0
+FN:318,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_14(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_14(RookieOnlineAssetManagement.Models.UserModel)
+DA:319,0
+FN:323,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_15(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_15(RookieOnlineAssetManagement.Models.UserModel)
+DA:324,0
+FN:331,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_16(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_16(RookieOnlineAssetManagement.Models.UserModel)
+DA:332,0
+FN:336,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_17(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_17(RookieOnlineAssetManagement.Models.UserModel)
+DA:337,0
+FN:344,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_18(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_18(RookieOnlineAssetManagement.Models.UserModel)
+DA:345,0
+FN:349,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_19(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_19(RookieOnlineAssetManagement.Models.UserModel)
+DA:350,0
+FN:358,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_20(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_20(RookieOnlineAssetManagement.Models.UserModel)
+DA:359,0
+FN:363,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_21(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_21(RookieOnlineAssetManagement.Models.UserModel)
+DA:364,0
+FN:371,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_22(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_22(RookieOnlineAssetManagement.Models.UserModel)
+DA:372,0
+FN:376,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_23(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_23(RookieOnlineAssetManagement.Models.UserModel)
+DA:377,0
+FN:384,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_24(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_24(RookieOnlineAssetManagement.Models.UserModel)
+DA:385,0
+FN:389,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_25(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Repositories.UserRepository/<>c::<SortUser>b__9_25(RookieOnlineAssetManagement.Models.UserModel)
+DA:390,0
+FN:187,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__0(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__0(RookieOnlineAssetManagement.Models.UserModel)
+DA:188,0
+BRDA:188,7,0,0
+BRDA:188,31,0,0
+BRDA:188,7,1,0
+BRDA:188,31,1,0
+FN:191,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__1(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__1(RookieOnlineAssetManagement.Models.UserModel)
+DA:192,0
+BRDA:192,7,0,0
+BRDA:192,31,0,0
+BRDA:192,7,1,0
+BRDA:192,31,1,0
+FN:195,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__2(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__2(RookieOnlineAssetManagement.Models.UserModel)
+DA:196,0
+BRDA:196,22,0,0
+BRDA:196,22,1,0
+FN:200,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__3(RookieOnlineAssetManagement.Models.UserModel)
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Repositories.UserRepository/<>c__DisplayClass8_0::<GetUserByType>b__3(RookieOnlineAssetManagement.Models.UserModel)
+DA:201,0
+BRDA:201,22,0,0
+BRDA:201,22,1,0
+FN:448,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<AddLocation>d__12::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<AddLocation>d__12::MoveNext()
+DA:449,0
+DA:450,0
+DA:451,0
+DA:452,0
+DA:453,0
+DA:454,0
+DA:455,0
+DA:456,0
+BRDA:451,313,0,0
+BRDA:451,313,1,0
+FN:457,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<CheckUserCanDeleteAsync>d__13::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<CheckUserCanDeleteAsync>d__13::MoveNext()
+DA:458,0
+DA:459,0
+DA:460,0
+DA:461,0
+DA:462,0
+DA:463,0
+DA:464,0
+DA:465,0
+FN:35,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<CreateAsync>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<CreateAsync>d__5::MoveNext()
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:66,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:90,0
+DA:92,0
+DA:94,0
+DA:95,0
+DA:96,0
+BRDA:39,228,1,0
+BRDA:40,156,0,0
+BRDA:40,156,1,0
+BRDA:39,228,0,0
+BRDA:46,412,1,0
+BRDA:47,330,0,0
+BRDA:47,330,1,0
+BRDA:46,412,0,0
+BRDA:57,1091,1,0
+BRDA:57,1091,0,0
+BRDA:69,1327,0,0
+BRDA:69,1327,1,0
+FN:466,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<DeleteUserAsync>d__14::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<DeleteUserAsync>d__14::MoveNext()
+DA:467,0
+DA:468,0
+DA:470,0
+DA:471,0
+DA:472,0
+DA:473,0
+DA:474,0
+DA:476,0
+DA:477,0
+BRDA:470,187,0,0
+BRDA:470,187,1,0
+FN:98,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<FindUser>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<FindUser>d__6::MoveNext()
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:116,0
+DA:117,0
+DA:119,0
+DA:120,0
+DA:122,0
+DA:123,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:132,0
+DA:134,0
+DA:135,0
+DA:137,0
+DA:138,0
+DA:140,0
+BRDA:113,1004,0,0
+BRDA:116,1103,0,0
+BRDA:116,1103,1,0
+BRDA:113,1004,1,0
+BRDA:122,1230,0,0
+BRDA:125,1329,0,0
+BRDA:125,1329,1,0
+BRDA:122,1230,1,0
+BRDA:134,1530,0,0
+BRDA:134,1530,1,0
+FN:29,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAllAsync>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAllAsync>d__4::MoveNext()
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+FN:141,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAllAsync>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAllAsync>d__7::MoveNext()
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:164,0
+DA:165,0
+DA:167,0
+BRDA:156,948,0,0
+BRDA:156,948,1,0
+BRDA:159,1038,0,0
+BRDA:159,1038,1,0
+FN:399,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAsync>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetAsync>d__10::MoveNext()
+DA:400,0
+DA:401,0
+DA:402,0
+DA:403,0
+DA:404,0
+FN:169,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetUserByType>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetUserByType>d__8::MoveNext()
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:193,0
+DA:195,0
+DA:197,0
+DA:198,0
+DA:200,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:212,0
+DA:213,0
+DA:215,0
+BRDA:184,987,0,0
+BRDA:186,1013,0,0
+BRDA:186,1013,1,0
+BRDA:190,1078,0,0
+BRDA:190,1078,1,0
+BRDA:184,987,1,0
+BRDA:204,1234,0,0
+BRDA:204,1234,1,0
+BRDA:207,1324,0,0
+BRDA:207,1324,1,0
+FN:479,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetUsersAsync>d__15::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<GetUsersAsync>d__15::MoveNext()
+DA:480,0
+DA:481,0
+DA:482,0
+DA:483,0
+DA:484,0
+DA:485,0
+DA:486,0
+DA:487,0
+DA:488,0
+DA:489,0
+DA:492,0
+DA:493,0
+DA:495,0
+DA:496,0
+DA:498,0
+DA:499,0
+DA:501,0
+DA:503,0
+DA:504,0
+DA:507,0
+DA:508,0
+DA:510,0
+DA:511,0
+DA:513,0
+DA:514,0
+DA:516,0
+DA:517,0
+DA:518,0
+DA:519,0
+DA:520,0
+DA:521,0
+DA:522,0
+DA:523,0
+DA:524,0
+DA:525,0
+DA:526,0
+DA:527,0
+BRDA:481,63,0,0
+BRDA:481,63,1,0
+BRDA:487,506,0,0
+BRDA:489,553,0,0
+BRDA:489,553,1,0
+BRDA:489,567,1,0
+BRDA:489,567,0,0
+BRDA:487,506,1,0
+BRDA:504,969,0,0
+BRDA:504,969,1,0
+BRDA:504,983,1,0
+BRDA:504,983,0,0
+FN:217,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<SortUser>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<SortUser>d__9::MoveNext()
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:240,0
+DA:243,0
+DA:245,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:253,0
+DA:256,0
+DA:258,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:266,0
+DA:269,0
+DA:271,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:280,0
+DA:283,0
+DA:285,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:293,0
+DA:296,0
+DA:298,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:306,0
+DA:309,0
+DA:311,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:320,0
+DA:323,0
+DA:325,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:333,0
+DA:336,0
+DA:338,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:346,0
+DA:349,0
+DA:351,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:360,0
+DA:363,0
+DA:365,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:373,0
+DA:376,0
+DA:378,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:386,0
+DA:389,0
+DA:391,0
+DA:396,0
+DA:397,0
+BRDA:232,1003,0,0
+BRDA:232,1017,0,0
+BRDA:232,1034,0,0
+BRDA:232,1003,1,0
+BRDA:235,1077,0,0
+BRDA:235,1077,1,0
+BRDA:235,1102,0,0
+BRDA:237,1128,0,0
+BRDA:237,1128,1,0
+BRDA:235,1102,1,0
+BRDA:248,1320,0,0
+BRDA:248,1320,1,0
+BRDA:248,1345,0,0
+BRDA:250,1371,0,0
+BRDA:250,1371,1,0
+BRDA:248,1345,1,0
+BRDA:263,1578,0,0
+BRDA:263,1578,1,0
+BRDA:232,1017,1,0
+BRDA:275,1780,0,0
+BRDA:275,1780,1,0
+BRDA:275,1805,0,0
+BRDA:277,1831,0,0
+BRDA:277,1831,1,0
+BRDA:275,1805,1,0
+BRDA:288,2023,0,0
+BRDA:288,2023,1,0
+BRDA:288,2048,0,0
+BRDA:290,2074,0,0
+BRDA:290,2074,1,0
+BRDA:288,2048,1,0
+BRDA:303,2281,0,0
+BRDA:303,2281,1,0
+BRDA:232,1034,1,0
+BRDA:315,2483,0,0
+BRDA:315,2483,1,0
+BRDA:315,2508,0,0
+BRDA:317,2534,0,0
+BRDA:317,2534,1,0
+BRDA:315,2508,1,0
+BRDA:328,2726,0,0
+BRDA:328,2726,1,0
+BRDA:328,2751,0,0
+BRDA:330,2777,0,0
+BRDA:330,2777,1,0
+BRDA:328,2751,1,0
+BRDA:343,2984,0,0
+BRDA:343,2984,1,0
+BRDA:232,1051,1,0
+BRDA:355,3186,0,0
+BRDA:355,3186,1,0
+BRDA:355,3211,0,0
+BRDA:357,3237,0,0
+BRDA:357,3237,1,0
+BRDA:355,3211,1,0
+BRDA:368,3429,0,0
+BRDA:368,3429,1,0
+BRDA:368,3454,0,0
+BRDA:370,3480,0,0
+BRDA:370,3480,1,0
+BRDA:368,3454,1,0
+BRDA:383,3687,0,0
+BRDA:383,3687,1,0
+BRDA:232,1051,0,0
+FN:406,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<UpdateAsync>d__11::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Repositories.UserRepository/<UpdateAsync>d__11::MoveNext()
+DA:407,0
+DA:408,0
+DA:409,0
+DA:410,0
+DA:411,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:417,0
+DA:418,0
+DA:419,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:425,0
+DA:426,0
+DA:427,0
+DA:430,0
+DA:431,0
+DA:432,0
+DA:434,0
+DA:435,0
+DA:437,0
+DA:439,0
+DA:440,0
+DA:443,0
+DA:444,0
+DA:446,0
+BRDA:409,334,0,0
+BRDA:412,400,0,0
+BRDA:412,400,1,0
+BRDA:412,419,0,0
+BRDA:412,419,1,0
+BRDA:417,446,0,0
+BRDA:417,446,1,0
+BRDA:417,477,0,0
+BRDA:417,477,1,0
+BRDA:425,534,0,0
+BRDA:425,534,1,0
+BRDA:425,565,0,0
+BRDA:425,565,1,0
+BRDA:409,334,1,0
+LF:382
+LH:0
+BRF:174
+BRH:0
+FNF:47
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Profiles\AssetProfile.cs
+FN:7,System.Void RookieOnlineAssetManagement.Profiles.AssetProfile::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Profiles.AssetProfile::.ctor()
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Profiles\AssignmentProfile.cs
+FN:9,System.Void RookieOnlineAssetManagement.Profiles.AssignmentProfile::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Profiles.AssignmentProfile::.ctor()
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+LF:26
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Profiles\CategoryProfile.cs
+FN:8,System.Void RookieOnlineAssetManagement.Profiles.CategoryProfile::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Profiles.CategoryProfile::.ctor()
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Profiles\UserProfile.cs
+FN:8,System.Void RookieOnlineAssetManagement.Profiles.UserProfile::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Profiles.UserProfile::.ctor()
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Pages\Error.cshtml.cs
+FN:21,System.String RookieOnlineAssetManagement.Pages.ErrorModel::get_RequestId()
+FNDA:0,System.String RookieOnlineAssetManagement.Pages.ErrorModel::get_RequestId()
+DA:22,0
+FN:23,System.Boolean RookieOnlineAssetManagement.Pages.ErrorModel::get_ShowRequestId()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Pages.ErrorModel::get_ShowRequestId()
+DA:24,0
+FN:26,System.Void RookieOnlineAssetManagement.Pages.ErrorModel::OnGet()
+FNDA:0,System.Void RookieOnlineAssetManagement.Pages.ErrorModel::OnGet()
+DA:27,0
+DA:28,0
+DA:29,0
+BRDA:28,8,0,0
+BRDA:28,8,1,0
+BRDA:28,20,0,0
+BRDA:28,20,1,0
+FN:16,System.Void RookieOnlineAssetManagement.Pages.ErrorModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<RookieOnlineAssetManagement.Pages.ErrorModel>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Pages.ErrorModel::.ctor(Microsoft.Extensions.Logging.ILogger`1<RookieOnlineAssetManagement.Pages.ErrorModel>)
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+LF:9
+LH:0
+BRF:4
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Pages\Error.cshtml
+FN:3,System.Void RookieOnlineAssetManagement.Pages.Pages_Error/<ExecuteAsync>d__0::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Pages.Pages_Error/<ExecuteAsync>d__0::MoveNext()
+DA:4,0
+DA:10,0
+DA:11,0
+DA:13,0
+DA:15,0
+BRDA:10,70,0,0
+BRDA:10,70,1,0
+LF:5
+LH:0
+BRF:2
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Pages\Shared\_LoginPartial.cshtml
+FN:18,System.Void RookieOnlineAssetManagement.Pages.Shared.Pages_Shared__LoginPartial/<<ExecuteAsync>b__18_0>d::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Pages.Shared.Pages_Shared__LoginPartial/<<ExecuteAsync>b__18_0>d::MoveNext()
+DA:19,0
+FN:6,System.Void RookieOnlineAssetManagement.Pages.Shared.Pages_Shared__LoginPartial/<ExecuteAsync>d__18::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Pages.Shared.Pages_Shared__LoginPartial/<ExecuteAsync>d__18::MoveNext()
+DA:7,0
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:16,0
+DA:17,0
+DA:26,0
+DA:28,0
+DA:30,0
+DA:33,0
+DA:35,0
+BRDA:9,162,0,0
+BRDA:9,162,1,0
+BRDA:16,239,0,0
+BRDA:17,665,0,0
+BRDA:17,665,1,0
+BRDA:17,1159,0,0
+BRDA:17,1159,1,0
+BRDA:17,1407,0,0
+BRDA:17,1407,1,0
+BRDA:16,239,1,0
+BRDA:28,1875,0,0
+BRDA:28,1875,1,0
+BRDA:30,2198,0,0
+BRDA:30,2198,1,0
+BRDA:30,2642,0,0
+BRDA:30,2642,1,0
+BRDA:33,2965,0,0
+BRDA:33,2965,1,0
+LF:14
+LH:0
+BRF:18
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetCreateDTO.cs
+FN:10,System.Nullable`1<System.Int32> RookieOnlineAssetManagement.Models.AssetCreateDTO::get_CategoryId()
+FNDA:0,System.Nullable`1<System.Int32> RookieOnlineAssetManagement.Models.AssetCreateDTO::get_CategoryId()
+DA:11,0
+FN:13,System.String RookieOnlineAssetManagement.Models.AssetCreateDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetCreateDTO::get_AssetName()
+DA:14,0
+FN:15,System.String RookieOnlineAssetManagement.Models.AssetCreateDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetCreateDTO::get_Specification()
+DA:16,0
+FN:18,System.DateTime RookieOnlineAssetManagement.Models.AssetCreateDTO::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssetCreateDTO::get_InstalledDate()
+DA:19,0
+FN:21,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetCreateDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetCreateDTO::get_State()
+DA:22,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetDTO.cs
+FN:7,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_AssetCode()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_AssetName()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Specification()
+DA:10,0
+FN:10,System.DateTime RookieOnlineAssetManagement.Models.AssetDTO::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssetDTO::get_InstalledDate()
+DA:11,0
+FN:11,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetDTO::get_State()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Location()
+DA:13,0
+FN:13,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Category()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDTO::get_Category()
+DA:14,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assetdtocreate.cs
+FN:10,System.Nullable`1<System.Int32> RookieOnlineAssetManagement.Models.AssetDto::get_CategoryId()
+FNDA:0,System.Nullable`1<System.Int32> RookieOnlineAssetManagement.Models.AssetDto::get_CategoryId()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.AssetDto::get_CategoryName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDto::get_CategoryName()
+DA:12,0
+FN:14,System.String RookieOnlineAssetManagement.Models.AssetDto::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDto::get_AssetName()
+DA:15,0
+FN:16,System.String RookieOnlineAssetManagement.Models.AssetDto::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDto::get_Specification()
+DA:17,0
+FN:19,System.DateTime RookieOnlineAssetManagement.Models.AssetDto::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssetDto::get_InstalledDate()
+DA:20,0
+FN:22,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetDto::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetDto::get_State()
+DA:23,0
+FN:23,System.String RookieOnlineAssetManagement.Models.AssetDto::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDto::get_Location()
+DA:24,0
+FN:24,System.String RookieOnlineAssetManagement.Models.AssetDto::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetDto::get_AssetCode()
+DA:25,0
+LF:8
+LH:0
+BRF:0
+BRH:0
+FNF:8
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetEditDTO .cs
+FN:7,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_AssetCode()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_AssetName()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetEditDTO::get_Specification()
+DA:10,0
+FN:10,System.DateTime RookieOnlineAssetManagement.Models.AssetEditDTO::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssetEditDTO::get_InstalledDate()
+DA:11,0
+FN:11,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetEditDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetEditDTO::get_State()
+DA:12,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetHistoryModel.cs
+FN:9,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO> RookieOnlineAssetManagement.Models.AssetHistoryModel::get_AssignmentHistory()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO> RookieOnlineAssetManagement.Models.AssetHistoryModel::get_AssignmentHistory()
+DA:10,0
+FN:10,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.ReturningRequestHistoryModel> RookieOnlineAssetManagement.Models.AssetHistoryModel::get_ReturningRequestHistory()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.ReturningRequestHistoryModel> RookieOnlineAssetManagement.Models.AssetHistoryModel::get_ReturningRequestHistory()
+DA:11,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetModel.cs
+FN:8,System.String RookieOnlineAssetManagement.Models.AssetModel::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetModel::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssetModel::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetModel::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.AssetModel::get_CategoryName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetModel::get_CategoryName()
+DA:11,0
+FN:11,System.DateTime RookieOnlineAssetManagement.Models.AssetModel::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssetModel::get_InstalledDate()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Models.AssetModel::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetModel::get_Location()
+DA:13,0
+FN:13,System.String RookieOnlineAssetManagement.Models.AssetModel::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssetModel::get_Specification()
+DA:14,0
+FN:14,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetModel::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Models.AssetModel::get_State()
+DA:15,0
+LF:7
+LH:0
+BRF:0
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetPagingModel.cs
+FN:6,System.Int32 RookieOnlineAssetManagement.Models.AssetPagingModel::get_Total()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.AssetPagingModel::get_Total()
+DA:7,0
+FN:7,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.AssetDTO> RookieOnlineAssetManagement.Models.AssetPagingModel::get_Assets()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.AssetDTO> RookieOnlineAssetManagement.Models.AssetPagingModel::get_Assets()
+DA:8,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssetPagingViewModel.cs
+FN:6,System.Int32 RookieOnlineAssetManagement.Models.AssetPagingViewModel::get_AssetTotal()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.AssetPagingViewModel::get_AssetTotal()
+DA:7,0
+FN:7,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.AssetModel> RookieOnlineAssetManagement.Models.AssetPagingViewModel::get_AssetList()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.AssetModel> RookieOnlineAssetManagement.Models.AssetPagingViewModel::get_AssetList()
+DA:8,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssignmentFilters.cs
+FN:6,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_State()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_State()
+DA:7,0
+FN:7,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Models.AssignmentFilters::get_AssignedDate()
+FNDA:0,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Models.AssignmentFilters::get_AssignedDate()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SearchWords()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SearchWords()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SortBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SortBy()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SortType()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentFilters::get_SortType()
+DA:11,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\AssignmentGetDTO.cs
+FN:7,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Id()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Id()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedTo()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedBy()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_AssignedDate()
+DA:13,0
+FN:13,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_State()
+DA:14,0
+FN:14,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Note()
+DA:15,0
+FN:15,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentGetDTO::get_Specification()
+DA:16,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:9
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentDTO.cs
+FN:7,System.Int32 RookieOnlineAssetManagement.Models.AssignmentDTO::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.AssignmentDTO::get_Id()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_Specification()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedTo()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedBy()
+DA:13,0
+FN:13,System.DateTime RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.AssignmentDTO::get_AssignedDate()
+DA:14,0
+FN:14,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.AssignmentDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.AssignmentDTO::get_State()
+DA:15,0
+FN:15,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.AssignmentDTO::get_Note()
+DA:16,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:9
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\CreateAssignmentModel.cs
+FN:6,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_StaffCode()
+DA:7,0
+FN:7,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_AssetCode()
+DA:8,0
+FN:8,System.DateTime RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_AssignedDate()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CreateAssignmentModel::get_Note()
+DA:10,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\EditAssignmentModel.cs
+FN:6,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_StaffCode()
+DA:7,0
+FN:7,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_AssetCode()
+DA:8,0
+FN:8,System.DateTime RookieOnlineAssetManagement.Models.EditAssignmentModel::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.EditAssignmentModel::get_AssignedDate()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.EditAssignmentModel::get_Note()
+DA:10,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\CategoryDTO.cs
+FN:8,System.Int32 RookieOnlineAssetManagement.Models.CategoryDTO::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.CategoryDTO::get_Id()
+DA:9,0
+FN:10,System.String RookieOnlineAssetManagement.Models.CategoryDTO::get_Name()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CategoryDTO::get_Name()
+DA:11,0
+FN:13,System.String RookieOnlineAssetManagement.Models.CategoryDTO::get_Prefix()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CategoryDTO::get_Prefix()
+DA:14,0
+FN:15,RookieOnlineAssetManagement.Enum.CategotyCheck RookieOnlineAssetManagement.Models.CategoryDTO::get_CategoryCheck()
+FNDA:0,RookieOnlineAssetManagement.Enum.CategotyCheck RookieOnlineAssetManagement.Models.CategoryDTO::get_CategoryCheck()
+DA:16,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\CategoryModel.cs
+FN:4,System.Int32 RookieOnlineAssetManagement.Models.CategoryModel::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.CategoryModel::get_Id()
+DA:5,0
+FN:5,System.String RookieOnlineAssetManagement.Models.CategoryModel::get_CategoryName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CategoryModel::get_CategoryName()
+DA:6,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\ChangePasswordModel.cs
+FN:4,System.String RookieOnlineAssetManagement.Models.ChangePasswordModel::get_OldPassword()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.ChangePasswordModel::get_OldPassword()
+DA:5,0
+FN:5,System.String RookieOnlineAssetManagement.Models.ChangePasswordModel::get_NewPassword()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.ChangePasswordModel::get_NewPassword()
+DA:6,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\CreateUserDTO.cs
+FN:11,System.String RookieOnlineAssetManagement.Models.CreateUserDTO::get_FirstName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CreateUserDTO::get_FirstName()
+DA:12,0
+FN:15,System.String RookieOnlineAssetManagement.Models.CreateUserDTO::get_LastName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.CreateUserDTO::get_LastName()
+DA:16,0
+FN:19,System.DateTime RookieOnlineAssetManagement.Models.CreateUserDTO::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.CreateUserDTO::get_DateofBirth()
+DA:20,0
+FN:23,System.DateTime RookieOnlineAssetManagement.Models.CreateUserDTO::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.CreateUserDTO::get_JoinedDate()
+DA:24,0
+FN:27,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.CreateUserDTO::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.CreateUserDTO::get_Type()
+DA:28,0
+FN:31,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.CreateUserDTO::get_Gender()
+FNDA:0,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.CreateUserDTO::get_Gender()
+DA:32,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\PaginationParameters.cs
+FN:4,System.Int32 RookieOnlineAssetManagement.Models.PaginationParameters::get_PageNumber()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.PaginationParameters::get_PageNumber()
+DA:5,0
+FN:5,System.Int32 RookieOnlineAssetManagement.Models.PaginationParameters::get_PageSize()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.PaginationParameters::get_PageSize()
+DA:6,0
+FN:7,System.Void RookieOnlineAssetManagement.Models.PaginationParameters::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Models.PaginationParameters::.ctor()
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+FN:13,System.Void RookieOnlineAssetManagement.Models.PaginationParameters::.ctor(System.Int32,System.Int32)
+FNDA:0,System.Void RookieOnlineAssetManagement.Models.PaginationParameters::.ctor(System.Int32,System.Int32)
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+BRDA:16,11,0,0
+BRDA:16,11,1,0
+BRDA:17,26,0,0
+BRDA:17,26,1,0
+LF:12
+LH:0
+BRF:4
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\ReturningRequestHistoryModel.cs
+FN:6,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Models.ReturningRequestHistoryModel::get_ReturnedDate()
+FNDA:0,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Models.ReturningRequestHistoryModel::get_ReturnedDate()
+DA:7,0
+LF:1
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\SearchParameters.cs
+FN:5,System.Int32 RookieOnlineAssetManagement.Models.SearchParameters::get_PageNumber()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.SearchParameters::get_PageNumber()
+DA:6,0
+FN:10,System.Int32 RookieOnlineAssetManagement.Models.SearchParameters::get_PageSize()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.SearchParameters::get_PageSize()
+DA:11,0
+DA:12,0
+DA:13,0
+FN:14,System.Void RookieOnlineAssetManagement.Models.SearchParameters::set_PageSize(System.Int32)
+FNDA:0,System.Void RookieOnlineAssetManagement.Models.SearchParameters::set_PageSize(System.Int32)
+DA:15,0
+DA:16,0
+DA:17,0
+BRDA:16,5,0,0
+BRDA:16,5,1,0
+FN:18,System.String RookieOnlineAssetManagement.Models.SearchParameters::get_SearchString()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.SearchParameters::get_SearchString()
+DA:19,0
+FN:19,System.String RookieOnlineAssetManagement.Models.SearchParameters::get_SortBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.SearchParameters::get_SortBy()
+DA:20,0
+FN:20,System.Boolean RookieOnlineAssetManagement.Models.SearchParameters::get_SortType()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Models.SearchParameters::get_SortType()
+DA:21,0
+FN:6,System.Void RookieOnlineAssetManagement.Models.SearchParameters::.ctor()
+FNDA:0,System.Void RookieOnlineAssetManagement.Models.SearchParameters::.ctor()
+DA:7,0
+LF:11
+LH:0
+BRF:2
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\UserDTO.cs
+FN:8,System.String RookieOnlineAssetManagement.Models.UserDTO::get_Id()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_Id()
+DA:9,0
+FN:12,System.String RookieOnlineAssetManagement.Models.UserDTO::get_FirstName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_FirstName()
+DA:13,0
+FN:16,System.String RookieOnlineAssetManagement.Models.UserDTO::get_LastName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_LastName()
+DA:17,0
+FN:18,System.String RookieOnlineAssetManagement.Models.UserDTO::get_UserName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_UserName()
+DA:19,0
+FN:22,System.DateTime RookieOnlineAssetManagement.Models.UserDTO::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserDTO::get_DateofBirth()
+DA:23,0
+FN:26,System.DateTime RookieOnlineAssetManagement.Models.UserDTO::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserDTO::get_JoinedDate()
+DA:27,0
+FN:30,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserDTO::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserDTO::get_Type()
+DA:31,0
+FN:34,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserDTO::get_Gender()
+FNDA:0,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserDTO::get_Gender()
+DA:35,0
+FN:35,System.String RookieOnlineAssetManagement.Models.UserDTO::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_Location()
+DA:36,0
+FN:36,System.String RookieOnlineAssetManagement.Models.UserDTO::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserDTO::get_StaffCode()
+DA:37,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\UserEditDto.cs
+FN:7,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_UserName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_UserName()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_FullName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_FullName()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_StaffCode()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_FirstName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_FirstName()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_LastName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_LastName()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Models.UserEditDto::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserEditDto::get_JoinedDate()
+DA:13,0
+FN:13,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserEditDto::get_Gender()
+FNDA:0,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserEditDto::get_Gender()
+DA:14,0
+FN:14,System.DateTime RookieOnlineAssetManagement.Models.UserEditDto::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserEditDto::get_DateofBirth()
+DA:15,0
+FN:15,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserEditDto::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserEditDto::get_Type()
+DA:16,0
+FN:16,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserEditDto::get_Location()
+DA:17,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\UserGetDto.cs
+FN:8,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_UserName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_UserName()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_StaffCode()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_FirstName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_FirstName()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_LastName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_LastName()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Models.UserGetDto::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserGetDto::get_JoinedDate()
+DA:13,0
+FN:13,System.DateTime RookieOnlineAssetManagement.Models.UserGetDto::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserGetDto::get_DateofBirth()
+DA:14,0
+FN:14,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_Gender()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserGetDto::get_Gender()
+DA:15,0
+FN:15,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserGetDto::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserGetDto::get_Type()
+DA:16,0
+LF:8
+LH:0
+BRF:0
+BRH:0
+FNF:8
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\UserModel.cs
+FN:7,System.String RookieOnlineAssetManagement.Models.UserModel::get_Id()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserModel::get_Id()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.UserModel::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserModel::get_StaffCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.UserModel::get_FullName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserModel::get_FullName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.UserModel::get_UserName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserModel::get_UserName()
+DA:11,0
+FN:11,System.DateTime RookieOnlineAssetManagement.Models.UserModel::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserModel::get_JoinedDate()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Models.UserModel::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.UserModel::get_DateofBirth()
+DA:13,0
+FN:13,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserModel::get_Gender()
+FNDA:0,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Models.UserModel::get_Gender()
+DA:14,0
+FN:14,System.String RookieOnlineAssetManagement.Models.UserModel::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.UserModel::get_Location()
+DA:15,0
+FN:15,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserModel::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Models.UserModel::get_Type()
+DA:16,0
+FN:16,System.Boolean RookieOnlineAssetManagement.Models.UserModel::get_isDisabled()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Models.UserModel::get_isDisabled()
+DA:17,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\UserPagingModel.cs
+FN:6,System.Int32 RookieOnlineAssetManagement.Models.UserPagingModel::get_Total()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.UserPagingModel::get_Total()
+DA:7,0
+FN:7,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.UserDTO> RookieOnlineAssetManagement.Models.UserPagingModel::get_Users()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.UserDTO> RookieOnlineAssetManagement.Models.UserPagingModel::get_Users()
+DA:8,0
+LF:2
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentDetailDTO.cs
+FN:7,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Id()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Specification()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedTo()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedBy()
+DA:13,0
+FN:13,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_FullnameUser()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_FullnameUser()
+DA:14,0
+FN:14,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_AssignedDate()
+DA:15,0
+FN:15,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_State()
+DA:16,0
+FN:16,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailDTO::get_Note()
+DA:17,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentDetailEditDTO.cs
+FN:7,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Id()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedTo()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedBy()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_AssignedDate()
+DA:13,0
+FN:13,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_State()
+DA:14,0
+FN:14,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Note()
+DA:15,0
+FN:15,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Specification()
+DA:16,0
+FN:16,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_StaffCode()
+DA:17,0
+FN:17,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Fullname()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentDetailEditDTO::get_Fullname()
+DA:18,0
+LF:11
+LH:0
+BRF:0
+BRH:0
+FNF:11
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentHistoryDTO.cs
+FN:6,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedDate()
+DA:7,0
+FN:7,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedTo()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentHistoryDTO::get_AssignedBy()
+DA:9,0
+LF:3
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentPagingModel.cs
+FN:7,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO> RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_Assignments()
+FNDA:0,System.Collections.Generic.List`1<RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO> RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_Assignments()
+DA:8,0
+FN:8,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_TotalItem()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_TotalItem()
+DA:9,0
+FN:9,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_Page()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_Page()
+DA:10,0
+FN:10,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_LastPage()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentPagingModel::get_LastPage()
+DA:11,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Models\Assignment\AssignmentViewDTO.cs
+FN:7,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssignmentId()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssignmentId()
+DA:8,0
+FN:8,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssetCode()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssetName()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_Category()
+FNDA:0,System.String RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_Category()
+DA:11,0
+FN:11,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_AssignedDate()
+DA:12,0
+FN:12,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Models.Assignment.AssignmentViewDTO::get_State()
+DA:13,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20210429222316_Init.cs
+FN:8,System.Void RookieOnlineAssetManagement.Migrations.Init::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.Init::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+FN:195,System.Void RookieOnlineAssetManagement.Migrations.Init::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.Init::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:196,0
+DA:197,0
+DA:198,0
+DA:200,0
+DA:201,0
+DA:203,0
+DA:204,0
+DA:206,0
+DA:207,0
+DA:209,0
+DA:210,0
+DA:212,0
+DA:213,0
+DA:215,0
+DA:216,0
+DA:217,0
+LF:188
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20210429222316_Init.Designer.cs
+FN:16,System.Void RookieOnlineAssetManagement.Migrations.Init::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.Init::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:275,0
+LF:245
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221117122351_ModifyEntity.cs
+FN:10,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+FN:131,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:132,0
+DA:133,0
+DA:134,0
+DA:136,0
+DA:137,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+LF:139
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221117122351_ModifyEntity.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ModifyEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:391,0
+LF:353
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221118062608_AddTableFirstLogin.cs
+FN:9,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+FN:19,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+LF:13
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221118062608_AddTableFirstLogin.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddTableFirstLogin::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:385,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:391,0
+DA:392,0
+DA:394,0
+LF:356
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221120111207_ChangePropJoinedDayToJoinedDateInUserEntity.cs
+FN:9,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+FN:17,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+LF:12
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221120111207_ChangePropJoinedDayToJoinedDateInUserEntity.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ChangePropJoinedDayToJoinedDateInUserEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:385,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:391,0
+DA:392,0
+DA:394,0
+LF:356
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221128075038_AddCategoryEntity.cs
+FN:10,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+FN:102,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:108,0
+DA:109,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+LF:117
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221128075038_AddCategoryEntity.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddCategoryEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:391,0
+DA:392,0
+DA:393,0
+DA:394,0
+DA:395,0
+DA:396,0
+DA:397,0
+DA:399,0
+DA:400,0
+DA:401,0
+DA:402,0
+DA:403,0
+DA:404,0
+DA:405,0
+DA:406,0
+DA:408,0
+DA:409,0
+DA:410,0
+DA:411,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:415,0
+DA:417,0
+DA:418,0
+DA:419,0
+DA:420,0
+DA:421,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:425,0
+DA:426,0
+DA:427,0
+DA:428,0
+DA:429,0
+DA:430,0
+DA:431,0
+DA:432,0
+DA:433,0
+DA:434,0
+DA:435,0
+DA:436,0
+DA:437,0
+DA:438,0
+DA:440,0
+DA:441,0
+DA:442,0
+DA:443,0
+DA:445,0
+DA:446,0
+DA:447,0
+DA:448,0
+DA:450,0
+DA:451,0
+DA:452,0
+DA:453,0
+DA:454,0
+DA:455,0
+DA:457,0
+LF:416
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221128080817_AddReturningRequestEntity.cs
+FN:10,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+FN:60,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+LF:49
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221128080817_AddReturningRequestEntity.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddReturningRequestEntity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:391,0
+DA:392,0
+DA:393,0
+DA:394,0
+DA:395,0
+DA:396,0
+DA:397,0
+DA:398,0
+DA:400,0
+DA:401,0
+DA:402,0
+DA:403,0
+DA:404,0
+DA:405,0
+DA:406,0
+DA:407,0
+DA:409,0
+DA:410,0
+DA:411,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:415,0
+DA:416,0
+DA:418,0
+DA:419,0
+DA:420,0
+DA:421,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:425,0
+DA:426,0
+DA:427,0
+DA:428,0
+DA:429,0
+DA:430,0
+DA:431,0
+DA:433,0
+DA:434,0
+DA:435,0
+DA:436,0
+DA:437,0
+DA:438,0
+DA:439,0
+DA:440,0
+DA:442,0
+DA:443,0
+DA:444,0
+DA:445,0
+DA:446,0
+DA:447,0
+DA:448,0
+DA:449,0
+DA:451,0
+DA:452,0
+DA:453,0
+DA:454,0
+DA:455,0
+DA:456,0
+DA:457,0
+DA:458,0
+DA:459,0
+DA:460,0
+DA:461,0
+DA:462,0
+DA:463,0
+DA:464,0
+DA:465,0
+DA:466,0
+DA:467,0
+DA:468,0
+DA:469,0
+DA:470,0
+DA:471,0
+DA:472,0
+DA:474,0
+DA:475,0
+DA:476,0
+DA:477,0
+DA:478,0
+DA:479,0
+DA:480,0
+DA:481,0
+DA:482,0
+DA:483,0
+DA:484,0
+DA:485,0
+DA:486,0
+DA:487,0
+DA:488,0
+DA:489,0
+DA:490,0
+DA:491,0
+DA:492,0
+DA:493,0
+DA:495,0
+DA:496,0
+DA:497,0
+DA:498,0
+DA:499,0
+DA:500,0
+DA:502,0
+DA:503,0
+DA:504,0
+DA:505,0
+DA:507,0
+DA:508,0
+DA:509,0
+DA:510,0
+DA:511,0
+DA:512,0
+DA:514,0
+LF:471
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221129103554_DropPrimaryKeyAssignment.cs
+FN:9,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+FN:68,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+LF:112
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221129103554_DropPrimaryKeyAssignment.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.DropPrimaryKeyAssignment::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:391,0
+DA:393,0
+DA:394,0
+DA:395,0
+DA:396,0
+DA:397,0
+DA:398,0
+DA:399,0
+DA:400,0
+DA:402,0
+DA:403,0
+DA:404,0
+DA:405,0
+DA:406,0
+DA:407,0
+DA:408,0
+DA:409,0
+DA:410,0
+DA:411,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:415,0
+DA:417,0
+DA:418,0
+DA:419,0
+DA:420,0
+DA:421,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:426,0
+DA:427,0
+DA:428,0
+DA:429,0
+DA:430,0
+DA:431,0
+DA:432,0
+DA:433,0
+DA:435,0
+DA:436,0
+DA:437,0
+DA:438,0
+DA:439,0
+DA:440,0
+DA:441,0
+DA:442,0
+DA:443,0
+DA:444,0
+DA:445,0
+DA:446,0
+DA:447,0
+DA:448,0
+DA:449,0
+DA:450,0
+DA:451,0
+DA:452,0
+DA:453,0
+DA:454,0
+DA:456,0
+DA:457,0
+DA:458,0
+DA:459,0
+DA:461,0
+DA:462,0
+DA:463,0
+DA:464,0
+DA:466,0
+LF:425
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221129103819_AddAutoIncrementIdForAssignment.cs
+FN:9,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+FN:87,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+LF:113
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\20221129103819_AddAutoIncrementIdForAssignment.Designer.cs
+FN:18,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.AddAutoIncrementIdForAssignment::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:161,0
+DA:162,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:195,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:236,0
+DA:237,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:262,0
+DA:263,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:296,0
+DA:297,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:391,0
+DA:392,0
+DA:394,0
+DA:395,0
+DA:396,0
+DA:397,0
+DA:398,0
+DA:399,0
+DA:400,0
+DA:401,0
+DA:403,0
+DA:404,0
+DA:405,0
+DA:406,0
+DA:407,0
+DA:408,0
+DA:409,0
+DA:410,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:415,0
+DA:416,0
+DA:417,0
+DA:418,0
+DA:419,0
+DA:421,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:425,0
+DA:426,0
+DA:427,0
+DA:428,0
+DA:429,0
+DA:430,0
+DA:431,0
+DA:432,0
+DA:433,0
+DA:434,0
+DA:436,0
+DA:437,0
+DA:438,0
+DA:439,0
+DA:440,0
+DA:441,0
+DA:442,0
+DA:443,0
+DA:445,0
+DA:446,0
+DA:447,0
+DA:448,0
+DA:449,0
+DA:450,0
+DA:451,0
+DA:452,0
+DA:454,0
+DA:455,0
+DA:456,0
+DA:457,0
+DA:458,0
+DA:459,0
+DA:460,0
+DA:461,0
+DA:462,0
+DA:463,0
+DA:464,0
+DA:465,0
+DA:466,0
+DA:467,0
+DA:468,0
+DA:469,0
+DA:470,0
+DA:471,0
+DA:472,0
+DA:473,0
+DA:474,0
+DA:475,0
+DA:477,0
+DA:478,0
+DA:479,0
+DA:480,0
+DA:481,0
+DA:482,0
+DA:483,0
+DA:484,0
+DA:485,0
+DA:486,0
+DA:487,0
+DA:488,0
+DA:489,0
+DA:490,0
+DA:491,0
+DA:492,0
+DA:493,0
+DA:494,0
+DA:495,0
+DA:496,0
+DA:498,0
+DA:499,0
+DA:500,0
+DA:501,0
+DA:502,0
+DA:503,0
+DA:505,0
+DA:506,0
+DA:507,0
+DA:508,0
+DA:510,0
+DA:511,0
+DA:512,0
+DA:513,0
+DA:514,0
+DA:515,0
+DA:517,0
+LF:474
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Migrations\ApplicationDbContextModelSnapshot.cs
+FN:16,System.Void RookieOnlineAssetManagement.Migrations.ApplicationDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Migrations.ApplicationDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:17,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:23,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:77,0
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:109,0
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+DA:114,0
+DA:115,0
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:139,0
+DA:141,0
+DA:142,0
+DA:143,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:159,0
+DA:160,0
+DA:162,0
+DA:163,0
+DA:164,0
+DA:165,0
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+DA:187,0
+DA:188,0
+DA:189,0
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:195,0
+DA:196,0
+DA:197,0
+DA:198,0
+DA:199,0
+DA:200,0
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:215,0
+DA:216,0
+DA:217,0
+DA:218,0
+DA:219,0
+DA:220,0
+DA:221,0
+DA:222,0
+DA:223,0
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:229,0
+DA:230,0
+DA:231,0
+DA:232,0
+DA:233,0
+DA:234,0
+DA:235,0
+DA:237,0
+DA:238,0
+DA:239,0
+DA:240,0
+DA:241,0
+DA:242,0
+DA:243,0
+DA:244,0
+DA:245,0
+DA:246,0
+DA:247,0
+DA:248,0
+DA:249,0
+DA:250,0
+DA:251,0
+DA:252,0
+DA:253,0
+DA:254,0
+DA:255,0
+DA:256,0
+DA:257,0
+DA:258,0
+DA:259,0
+DA:260,0
+DA:261,0
+DA:263,0
+DA:264,0
+DA:265,0
+DA:266,0
+DA:267,0
+DA:268,0
+DA:269,0
+DA:270,0
+DA:271,0
+DA:272,0
+DA:273,0
+DA:274,0
+DA:275,0
+DA:276,0
+DA:277,0
+DA:278,0
+DA:279,0
+DA:280,0
+DA:281,0
+DA:282,0
+DA:283,0
+DA:284,0
+DA:285,0
+DA:286,0
+DA:287,0
+DA:288,0
+DA:289,0
+DA:290,0
+DA:291,0
+DA:292,0
+DA:293,0
+DA:294,0
+DA:295,0
+DA:297,0
+DA:298,0
+DA:299,0
+DA:300,0
+DA:301,0
+DA:302,0
+DA:303,0
+DA:304,0
+DA:305,0
+DA:306,0
+DA:307,0
+DA:308,0
+DA:309,0
+DA:310,0
+DA:311,0
+DA:312,0
+DA:313,0
+DA:314,0
+DA:315,0
+DA:316,0
+DA:317,0
+DA:318,0
+DA:319,0
+DA:320,0
+DA:321,0
+DA:322,0
+DA:323,0
+DA:324,0
+DA:325,0
+DA:326,0
+DA:327,0
+DA:328,0
+DA:329,0
+DA:330,0
+DA:331,0
+DA:332,0
+DA:333,0
+DA:334,0
+DA:335,0
+DA:336,0
+DA:337,0
+DA:338,0
+DA:339,0
+DA:340,0
+DA:341,0
+DA:342,0
+DA:343,0
+DA:344,0
+DA:345,0
+DA:346,0
+DA:347,0
+DA:348,0
+DA:349,0
+DA:350,0
+DA:351,0
+DA:352,0
+DA:353,0
+DA:354,0
+DA:355,0
+DA:356,0
+DA:357,0
+DA:358,0
+DA:359,0
+DA:360,0
+DA:361,0
+DA:362,0
+DA:363,0
+DA:364,0
+DA:365,0
+DA:366,0
+DA:367,0
+DA:368,0
+DA:369,0
+DA:370,0
+DA:371,0
+DA:372,0
+DA:373,0
+DA:374,0
+DA:375,0
+DA:376,0
+DA:377,0
+DA:378,0
+DA:379,0
+DA:380,0
+DA:381,0
+DA:382,0
+DA:383,0
+DA:384,0
+DA:385,0
+DA:386,0
+DA:387,0
+DA:388,0
+DA:389,0
+DA:390,0
+DA:392,0
+DA:393,0
+DA:394,0
+DA:395,0
+DA:396,0
+DA:397,0
+DA:398,0
+DA:399,0
+DA:401,0
+DA:402,0
+DA:403,0
+DA:404,0
+DA:405,0
+DA:406,0
+DA:407,0
+DA:408,0
+DA:410,0
+DA:411,0
+DA:412,0
+DA:413,0
+DA:414,0
+DA:415,0
+DA:416,0
+DA:417,0
+DA:419,0
+DA:420,0
+DA:421,0
+DA:422,0
+DA:423,0
+DA:424,0
+DA:425,0
+DA:426,0
+DA:427,0
+DA:428,0
+DA:429,0
+DA:430,0
+DA:431,0
+DA:432,0
+DA:434,0
+DA:435,0
+DA:436,0
+DA:437,0
+DA:438,0
+DA:439,0
+DA:440,0
+DA:441,0
+DA:443,0
+DA:444,0
+DA:445,0
+DA:446,0
+DA:447,0
+DA:448,0
+DA:449,0
+DA:450,0
+DA:452,0
+DA:453,0
+DA:454,0
+DA:455,0
+DA:456,0
+DA:457,0
+DA:458,0
+DA:459,0
+DA:460,0
+DA:461,0
+DA:462,0
+DA:463,0
+DA:464,0
+DA:465,0
+DA:466,0
+DA:467,0
+DA:468,0
+DA:469,0
+DA:470,0
+DA:471,0
+DA:472,0
+DA:473,0
+DA:475,0
+DA:476,0
+DA:477,0
+DA:478,0
+DA:479,0
+DA:480,0
+DA:481,0
+DA:482,0
+DA:483,0
+DA:484,0
+DA:485,0
+DA:486,0
+DA:487,0
+DA:488,0
+DA:489,0
+DA:490,0
+DA:491,0
+DA:492,0
+DA:493,0
+DA:494,0
+DA:496,0
+DA:497,0
+DA:498,0
+DA:499,0
+DA:500,0
+DA:501,0
+DA:503,0
+DA:504,0
+DA:505,0
+DA:506,0
+DA:508,0
+DA:509,0
+DA:510,0
+DA:511,0
+DA:512,0
+DA:513,0
+DA:515,0
+LF:474
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Helpper\Utilities.cs
+FN:13,System.String RookieOnlineAssetManagement.Helpper.Utilities::ChangeFormatName(System.String)
+FNDA:0,System.String RookieOnlineAssetManagement.Helpper.Utilities::ChangeFormatName(System.String)
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:32,0
+DA:33,0
+DA:35,0
+DA:36,0
+DA:37,0
+BRDA:27,185,0,0
+BRDA:27,185,1,0
+FN:38,System.String RookieOnlineAssetManagement.Helpper.Utilities::OptimizeSpace(System.String)
+FNDA:0,System.String RookieOnlineAssetManagement.Helpper.Utilities::OptimizeSpace(System.String)
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+BRDA:42,142,1,0
+BRDA:44,30,0,0
+BRDA:44,41,0,0
+BRDA:44,41,1,0
+BRDA:44,30,1,0
+BRDA:44,64,0,0
+BRDA:44,64,1,0
+BRDA:48,88,0,0
+BRDA:48,88,1,0
+BRDA:48,111,0,0
+BRDA:48,111,1,0
+BRDA:42,142,0,0
+LF:37
+LH:0
+BRF:14
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Entities\Asset.cs
+FN:10,System.String RookieOnlineAssetManagement.Entities.Asset::get_AssetCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Asset::get_AssetCode()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Entities.Asset::get_AssetName()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Asset::get_AssetName()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Entities.Asset::get_Specification()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Asset::get_Specification()
+DA:13,0
+FN:13,System.DateTime RookieOnlineAssetManagement.Entities.Asset::get_InstalledDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Entities.Asset::get_InstalledDate()
+DA:14,0
+FN:14,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Entities.Asset::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssetState RookieOnlineAssetManagement.Entities.Asset::get_State()
+DA:15,0
+FN:15,System.String RookieOnlineAssetManagement.Entities.Asset::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Asset::get_Location()
+DA:16,0
+FN:16,System.Boolean RookieOnlineAssetManagement.Entities.Asset::get_IsDisabled()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Entities.Asset::get_IsDisabled()
+DA:17,0
+FN:18,RookieOnlineAssetManagement.Entities.Category RookieOnlineAssetManagement.Entities.Asset::get_Category()
+FNDA:0,RookieOnlineAssetManagement.Entities.Category RookieOnlineAssetManagement.Entities.Asset::get_Category()
+DA:19,0
+FN:20,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.ReturningRequest> RookieOnlineAssetManagement.Entities.Asset::get_ReturningRequests()
+FNDA:0,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.ReturningRequest> RookieOnlineAssetManagement.Entities.Asset::get_ReturningRequests()
+DA:21,0
+FN:22,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.Asset::get_Assignments()
+FNDA:0,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.Asset::get_Assignments()
+DA:23,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Entities\Assignment.cs
+FN:8,System.Int32 RookieOnlineAssetManagement.Entities.Assignment::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Entities.Assignment::get_Id()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Entities.Assignment::get_AssignedBy()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Assignment::get_AssignedBy()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Entities.Assignment::get_AssignedTo()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Assignment::get_AssignedTo()
+DA:11,0
+FN:11,System.DateTime RookieOnlineAssetManagement.Entities.Assignment::get_AssignedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Entities.Assignment::get_AssignedDate()
+DA:12,0
+FN:12,System.String RookieOnlineAssetManagement.Entities.Assignment::get_Note()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Assignment::get_Note()
+DA:13,0
+FN:13,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Entities.Assignment::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.AssignmentState RookieOnlineAssetManagement.Entities.Assignment::get_State()
+DA:14,0
+FN:14,System.Boolean RookieOnlineAssetManagement.Entities.Assignment::get_IsDisabled()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Entities.Assignment::get_IsDisabled()
+DA:15,0
+FN:16,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.Assignment::get_AssignedByUser()
+FNDA:0,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.Assignment::get_AssignedByUser()
+DA:17,0
+FN:17,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.Assignment::get_AssignedToUser()
+FNDA:0,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.Assignment::get_AssignedToUser()
+DA:18,0
+FN:18,RookieOnlineAssetManagement.Entities.Asset RookieOnlineAssetManagement.Entities.Assignment::get_Asset()
+FNDA:0,RookieOnlineAssetManagement.Entities.Asset RookieOnlineAssetManagement.Entities.Assignment::get_Asset()
+DA:19,0
+LF:10
+LH:0
+BRF:0
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Entities\Category.cs
+FN:8,System.Int32 RookieOnlineAssetManagement.Entities.Category::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Entities.Category::get_Id()
+DA:9,0
+FN:9,System.String RookieOnlineAssetManagement.Entities.Category::get_Prefix()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Category::get_Prefix()
+DA:10,0
+FN:10,System.String RookieOnlineAssetManagement.Entities.Category::get_Name()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.Category::get_Name()
+DA:11,0
+FN:11,System.Boolean RookieOnlineAssetManagement.Entities.Category::get_IsDisabled()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Entities.Category::get_IsDisabled()
+DA:12,0
+FN:13,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Asset> RookieOnlineAssetManagement.Entities.Category::get_Assets()
+FNDA:0,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Asset> RookieOnlineAssetManagement.Entities.Category::get_Assets()
+DA:14,0
+LF:5
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Entities\ReturningRequest.cs
+FN:7,System.Int32 RookieOnlineAssetManagement.Entities.ReturningRequest::get_Id()
+FNDA:0,System.Int32 RookieOnlineAssetManagement.Entities.ReturningRequest::get_Id()
+DA:8,0
+FN:8,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Entities.ReturningRequest::get_ReturnedDate()
+FNDA:0,System.Nullable`1<System.DateTime> RookieOnlineAssetManagement.Entities.ReturningRequest::get_ReturnedDate()
+DA:9,0
+FN:9,RookieOnlineAssetManagement.Enum.RequestState RookieOnlineAssetManagement.Entities.ReturningRequest::get_State()
+FNDA:0,RookieOnlineAssetManagement.Enum.RequestState RookieOnlineAssetManagement.Entities.ReturningRequest::get_State()
+DA:10,0
+FN:10,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.ReturningRequest::get_RequestedBy()
+FNDA:0,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.ReturningRequest::get_RequestedBy()
+DA:11,0
+FN:11,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.ReturningRequest::get_AcceptedBy()
+FNDA:0,RookieOnlineAssetManagement.Entities.User RookieOnlineAssetManagement.Entities.ReturningRequest::get_AcceptedBy()
+DA:12,0
+FN:13,RookieOnlineAssetManagement.Entities.Asset RookieOnlineAssetManagement.Entities.ReturningRequest::get_Asset()
+FNDA:0,RookieOnlineAssetManagement.Entities.Asset RookieOnlineAssetManagement.Entities.ReturningRequest::get_Asset()
+DA:14,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Entities\User.cs
+FN:10,System.String RookieOnlineAssetManagement.Entities.User::get_FirstName()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.User::get_FirstName()
+DA:11,0
+FN:11,System.String RookieOnlineAssetManagement.Entities.User::get_LastName()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.User::get_LastName()
+DA:12,0
+FN:12,System.DateTime RookieOnlineAssetManagement.Entities.User::get_JoinedDate()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Entities.User::get_JoinedDate()
+DA:13,0
+FN:13,System.DateTime RookieOnlineAssetManagement.Entities.User::get_DateofBirth()
+FNDA:0,System.DateTime RookieOnlineAssetManagement.Entities.User::get_DateofBirth()
+DA:14,0
+FN:14,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Entities.User::get_Gender()
+FNDA:0,RookieOnlineAssetManagement.Enum.Gender RookieOnlineAssetManagement.Entities.User::get_Gender()
+DA:15,0
+FN:15,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Entities.User::get_Type()
+FNDA:0,RookieOnlineAssetManagement.Enum.UserType RookieOnlineAssetManagement.Entities.User::get_Type()
+DA:16,0
+FN:16,System.String RookieOnlineAssetManagement.Entities.User::get_Location()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.User::get_Location()
+DA:17,0
+FN:17,System.Boolean RookieOnlineAssetManagement.Entities.User::get_IsDisabled()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Entities.User::get_IsDisabled()
+DA:18,0
+FN:18,System.String RookieOnlineAssetManagement.Entities.User::get_StaffCode()
+FNDA:0,System.String RookieOnlineAssetManagement.Entities.User::get_StaffCode()
+DA:19,0
+FN:19,System.Boolean RookieOnlineAssetManagement.Entities.User::get_FirstLogin()
+FNDA:0,System.Boolean RookieOnlineAssetManagement.Entities.User::get_FirstLogin()
+DA:20,0
+FN:20,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.User::get_AssignedByAssignments()
+FNDA:0,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.User::get_AssignedByAssignments()
+DA:21,0
+FN:21,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.User::get_AssignedToAssignments()
+FNDA:0,System.Collections.Generic.ICollection`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Entities.User::get_AssignedToAssignments()
+DA:22,0
+LF:12
+LH:0
+BRF:0
+BRH:0
+FNF:12
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Data\ApplicationDbContext.cs
+FN:12,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Assignments()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Assignment> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Assignments()
+DA:13,0
+FN:13,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Asset> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Assets()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Asset> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Assets()
+DA:14,0
+FN:14,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Category> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Categories()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.Category> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_Categories()
+DA:15,0
+FN:15,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.ReturningRequest> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_ReturningRequests()
+FNDA:0,Microsoft.EntityFrameworkCore.DbSet`1<RookieOnlineAssetManagement.Entities.ReturningRequest> RookieOnlineAssetManagement.Data.ApplicationDbContext::get_ReturningRequests()
+DA:16,0
+FN:18,System.Void RookieOnlineAssetManagement.Data.ApplicationDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+FNDA:0,System.Void RookieOnlineAssetManagement.Data.ApplicationDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:46,0
+DA:47,0
+FN:8,System.Void RookieOnlineAssetManagement.Data.ApplicationDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<RookieOnlineAssetManagement.Data.ApplicationDbContext>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Data.ApplicationDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<RookieOnlineAssetManagement.Data.ApplicationDbContext>)
+DA:9,0
+DA:10,0
+DA:11,0
+LF:33
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Data\StartData.cs
+FN:11,System.Void RookieOnlineAssetManagement.Data.StartData/<Initialize>d__0::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Data.StartData/<Initialize>d__0::MoveNext()
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+DA:42,0
+DA:44,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+BRDA:44,684,1,0
+BRDA:47,395,0,0
+BRDA:47,395,1,0
+BRDA:44,684,0,0
+LF:41
+LH:0
+BRF:4
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Controllers\AssetsController.cs
+FN:19,System.Void RookieOnlineAssetManagement.Controllers.AssetsController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.IAssetRepository)
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.IAssetRepository)
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+FN:93,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<CheckUserCanDelete>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<CheckUserCanDelete>d__10::MoveNext()
+DA:94,0
+DA:95,0
+DA:96,0
+DA:97,0
+FN:54,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<CreateAsset>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<CreateAsset>d__7::MoveNext()
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:65,0
+DA:66,0
+DA:69,0
+DA:70,0
+BRDA:57,187,0,0
+BRDA:60,351,0,0
+BRDA:60,351,1,0
+BRDA:57,187,1,0
+FN:100,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<DeleteAsset>d__11::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<DeleteAsset>d__11::MoveNext()
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:105,0
+DA:108,0
+DA:109,0
+DA:111,0
+BRDA:103,157,0,0
+BRDA:103,157,1,0
+BRDA:103,183,0,0
+BRDA:103,183,1,0
+FN:82,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<EditAsset>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<EditAsset>d__9::MoveNext()
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:88,0
+DA:90,0
+DA:91,0
+BRDA:84,33,0,0
+BRDA:84,33,1,0
+FN:27,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetAssets>d__3::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetAssets>d__3::MoveNext()
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+FN:34,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetAvailableAssets>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetAvailableAssets>d__4::MoveNext()
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+FN:72,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetByAssetCode>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetByAssetCode>d__8::MoveNext()
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+BRDA:75,164,0,0
+BRDA:75,164,1,0
+FN:47,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetHistory>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetHistory>d__6::MoveNext()
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+FN:40,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetListAsset>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssetsController/<GetListAsset>d__5::MoveNext()
+DA:41,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:45,0
+LF:60
+LH:0
+BRF:12
+BRH:0
+FNF:10
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Controllers\AssignmentsController.cs
+FN:19,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController::.ctor(RookieOnlineAssetManagement.Interface.IAssignmentRepository,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController::.ctor(RookieOnlineAssetManagement.Interface.IAssignmentRepository,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+DA:20,0
+DA:21,0
+DA:22,0
+DA:23,0
+DA:24,0
+FN:49,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<AcceptAssignment>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<AcceptAssignment>d__5::MoveNext()
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:57,0
+DA:58,0
+DA:60,0
+BRDA:52,164,0,0
+BRDA:52,164,1,0
+FN:84,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<CreateAssignment>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<CreateAssignment>d__8::MoveNext()
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+FN:63,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<DeclineAssignment>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<DeclineAssignment>d__6::MoveNext()
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:71,0
+DA:72,0
+DA:74,0
+BRDA:66,164,0,0
+BRDA:66,164,1,0
+FN:126,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<DeleteAssignment>d__13::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<DeleteAssignment>d__13::MoveNext()
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:131,0
+DA:134,0
+DA:135,0
+DA:137,0
+BRDA:129,164,0,0
+BRDA:129,164,1,0
+FN:115,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<EditAssignment>d__12::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<EditAssignment>d__12::MoveNext()
+DA:116,0
+DA:118,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:123,0
+DA:124,0
+BRDA:119,170,0,0
+BRDA:119,170,1,0
+FN:77,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentById>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentById>d__7::MoveNext()
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+FN:42,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentDetail>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentDetail>d__4::MoveNext()
+DA:43,0
+DA:44,0
+DA:45,0
+DA:46,0
+FN:109,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentDetailEdit>d__11::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentDetailEdit>d__11::MoveNext()
+DA:110,0
+DA:111,0
+DA:112,0
+DA:113,0
+FN:95,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentNumberAfterFilter>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentNumberAfterFilter>d__9::MoveNext()
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+FN:102,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentsByFilters>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentsByFilters>d__10::MoveNext()
+DA:103,0
+DA:104,0
+DA:105,0
+DA:106,0
+DA:107,0
+FN:27,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentsOfUser>d__3::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.AssignmentsController/<GetAssignmentsOfUser>d__3::MoveNext()
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:36,0
+DA:37,0
+DA:39,0
+BRDA:30,169,0,0
+BRDA:30,169,1,0
+LF:74
+LH:0
+BRF:10
+BRH:0
+FNF:12
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Controllers\CategoriesController.cs
+FN:21,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.ICategoryRepository)
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.ICategoryRepository)
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+FN:45,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<CreateCategory>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<CreateCategory>d__5::MoveNext()
+DA:46,0
+DA:47,0
+DA:48,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:64,0
+DA:65,0
+DA:68,0
+DA:69,0
+BRDA:47,33,0,0
+BRDA:51,194,0,0
+BRDA:51,194,1,0
+BRDA:55,237,0,0
+BRDA:55,237,1,0
+BRDA:59,272,0,0
+BRDA:59,272,1,0
+BRDA:47,33,1,0
+FN:34,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<GetAll>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<GetAll>d__4::MoveNext()
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:42,0
+BRDA:37,158,0,0
+BRDA:37,158,1,0
+FN:28,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<GetListCategory>d__3::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.CategoriesController/<GetListCategory>d__3::MoveNext()
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+LF:33
+LH:0
+BRF:10
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Controllers\UsersController.cs
+FN:22,System.Void RookieOnlineAssetManagement.Controllers.UsersController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,Microsoft.AspNetCore.Identity.SignInManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.IUserRepository)
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController::.ctor(Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>,Microsoft.AspNetCore.Identity.SignInManager`1<RookieOnlineAssetManagement.Entities.User>,RookieOnlineAssetManagement.Interface.IUserRepository)
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+FN:83,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<ChangePassword>d__8::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<ChangePassword>d__8::MoveNext()
+DA:84,0
+DA:86,0
+DA:88,0
+DA:89,0
+DA:91,0
+DA:92,0
+DA:94,0
+DA:95,0
+DA:96,0
+DA:98,0
+DA:99,0
+DA:100,0
+DA:101,0
+DA:102,0
+DA:103,0
+DA:104,0
+DA:106,0
+DA:108,0
+DA:111,0
+DA:112,0
+DA:114,0
+DA:115,0
+DA:117,0
+DA:118,0
+BRDA:88,194,0,0
+BRDA:91,231,0,0
+BRDA:95,390,0,0
+BRDA:99,433,0,0
+BRDA:102,615,0,0
+BRDA:102,615,1,0
+BRDA:99,433,1,0
+BRDA:95,390,1,0
+BRDA:91,231,1,0
+BRDA:88,194,1,0
+FN:209,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<CheckUserCanDelete>d__14::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<CheckUserCanDelete>d__14::MoveNext()
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+DA:214,0
+DA:217,0
+DA:218,0
+DA:220,0
+BRDA:212,157,0,0
+BRDA:212,157,1,0
+FN:128,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<CreateUser>d__10::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<CreateUser>d__10::MoveNext()
+DA:129,0
+DA:130,0
+DA:131,0
+DA:132,0
+DA:133,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:149,0
+DA:150,0
+DA:151,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:157,0
+DA:159,0
+DA:161,0
+DA:162,0
+BRDA:130,44,0,0
+BRDA:135,262,0,0
+BRDA:135,262,1,0
+BRDA:140,339,0,0
+BRDA:140,339,1,0
+BRDA:144,380,0,0
+BRDA:144,380,1,0
+BRDA:144,397,0,0
+BRDA:144,397,1,0
+BRDA:149,438,0,0
+BRDA:149,438,1,0
+BRDA:149,455,0,0
+BRDA:149,455,1,0
+BRDA:153,492,0,0
+BRDA:153,492,1,0
+BRDA:153,515,0,0
+BRDA:153,515,1,0
+BRDA:130,44,1,0
+FN:223,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<DeleteUser>d__15::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<DeleteUser>d__15::MoveNext()
+DA:224,0
+DA:225,0
+DA:226,0
+DA:227,0
+DA:228,0
+DA:231,0
+DA:232,0
+DA:234,0
+BRDA:226,164,0,0
+BRDA:226,164,1,0
+FN:200,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<EditUser>d__13::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<EditUser>d__13::MoveNext()
+DA:201,0
+DA:202,0
+DA:203,0
+DA:204,0
+DA:205,0
+DA:206,0
+BRDA:203,164,0,0
+BRDA:203,164,1,0
+FN:58,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<FirstChangePassword>d__7::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<FirstChangePassword>d__7::MoveNext()
+DA:59,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:78,0
+DA:79,0
+BRDA:62,230,0,0
+BRDA:62,230,1,0
+BRDA:66,269,0,0
+BRDA:70,585,0,0
+BRDA:74,758,0,0
+BRDA:74,758,1,0
+BRDA:70,585,1,0
+BRDA:66,269,1,0
+FN:39,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<Get>d__5::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<Get>d__5::MoveNext()
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+FN:46,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetAll>d__6::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetAll>d__6::MoveNext()
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:54,0
+DA:55,0
+BRDA:50,319,0,0
+BRDA:50,319,1,0
+FN:189,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetById>d__12::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetById>d__12::MoveNext()
+DA:190,0
+DA:191,0
+DA:192,0
+DA:193,0
+DA:194,0
+DA:196,0
+DA:197,0
+BRDA:192,164,0,0
+BRDA:192,164,1,0
+FN:165,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetUserByType>d__11::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetUserByType>d__11::MoveNext()
+DA:166,0
+DA:167,0
+DA:168,0
+DA:169,0
+DA:170,0
+DA:171,0
+DA:172,0
+DA:173,0
+DA:174,0
+DA:175,0
+DA:176,0
+DA:177,0
+DA:178,0
+DA:179,0
+DA:180,0
+DA:181,0
+DA:182,0
+DA:183,0
+DA:184,0
+DA:185,0
+DA:186,0
+BRDA:169,369,0,0
+BRDA:169,387,0,0
+BRDA:169,369,1,0
+BRDA:169,387,1,0
+BRDA:169,412,0,0
+BRDA:169,412,1,0
+BRDA:173,591,0,0
+BRDA:173,609,0,0
+BRDA:173,591,1,0
+BRDA:173,609,1,0
+BRDA:173,634,0,0
+BRDA:173,634,1,0
+BRDA:177,813,0,0
+BRDA:177,831,0,0
+BRDA:177,813,1,0
+BRDA:177,831,1,0
+BRDA:177,856,0,0
+BRDA:177,856,1,0
+BRDA:181,1039,0,0
+BRDA:181,1039,1,0
+FN:31,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetUsers>d__4::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<GetUsers>d__4::MoveNext()
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+FN:121,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<Logout>d__9::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Controllers.UsersController/<Logout>d__9::MoveNext()
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+LF:148
+LH:0
+BRF:66
+BRH:0
+FNF:13
+FNH:0
+end_of_record
+SF:e:\NashTech Training\2022Batch6Net2\RookieOnlineAssetManagement\Areas\Identity\Pages\Account\Login.cshtml.cs
+FN:39,RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_Input()
+FNDA:0,RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_Input()
+DA:40,0
+FN:45,System.Collections.Generic.IList`1<Microsoft.AspNetCore.Authentication.AuthenticationScheme> RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ExternalLogins()
+FNDA:0,System.Collections.Generic.IList`1<Microsoft.AspNetCore.Authentication.AuthenticationScheme> RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ExternalLogins()
+DA:46,0
+FN:51,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ReturnUrl()
+FNDA:0,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ReturnUrl()
+DA:52,0
+FN:58,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ErrorMessage()
+FNDA:0,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::get_ErrorMessage()
+DA:59,0
+FN:27,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::.ctor(Microsoft.AspNetCore.Identity.SignInManager`1<RookieOnlineAssetManagement.Entities.User>,Microsoft.Extensions.Logging.ILogger`1<RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel>,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+FNDA:0,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel::.ctor(Microsoft.AspNetCore.Identity.SignInManager`1<RookieOnlineAssetManagement.Entities.User>,Microsoft.Extensions.Logging.ILogger`1<RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel>,Microsoft.AspNetCore.Identity.UserManager`1<RookieOnlineAssetManagement.Entities.User>)
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+FN:71,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel::get_UserName()
+FNDA:0,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel::get_UserName()
+DA:72,0
+FN:79,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel::get_Password()
+FNDA:0,System.String RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/InputModel::get_Password()
+DA:80,0
+FN:88,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/<OnGetAsync>d__21::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/<OnGetAsync>d__21::MoveNext()
+DA:89,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:96,0
+DA:97,0
+DA:98,0
+DA:99,0
+DA:101,0
+DA:104,0
+DA:106,0
+DA:108,0
+DA:110,0
+DA:111,0
+BRDA:91,58,0,0
+BRDA:91,58,1,0
+BRDA:96,105,0,0
+BRDA:96,105,1,0
+BRDA:101,148,0,0
+BRDA:101,148,1,0
+FN:113,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/<OnPostAsync>d__22::MoveNext()
+FNDA:0,System.Void RookieOnlineAssetManagement.Areas.Identity.Pages.Account.LoginModel/<OnPostAsync>d__22::MoveNext()
+DA:114,0
+DA:115,0
+DA:117,0
+DA:119,0
+DA:120,0
+DA:121,0
+DA:122,0
+DA:123,0
+DA:124,0
+DA:125,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:137,0
+DA:138,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:144,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:157,0
+DA:158,0
+BRDA:115,46,0,0
+BRDA:115,46,1,0
+BRDA:119,236,0,0
+BRDA:122,534,0,0
+BRDA:122,534,1,0
+BRDA:127,596,0,0
+BRDA:127,596,1,0
+BRDA:135,825,0,0
+BRDA:135,825,1,0
+BRDA:140,908,0,0
+BRDA:140,908,1,0
+BRDA:144,960,0,0
+BRDA:144,960,1,0
+BRDA:119,236,1,0
+LF:57
+LH:0
+BRF:20
+BRH:0
+FNF:9
+FNH:0
+end_of_record

@@ -1,0 +1,82 @@
+.edit-user-form .date-picker {
+    border: 3px solid #aaaaaa !important;
+}
+
+.edit-user-form .date-picker__error-message {
+    border: 3px solid red !important;
+}
+
+.input-field__error {
+    border: 3px solid red;
+}
+
+.error-message {
+    color: #bf1650;
+}
+
+.error-message::before {
+    display: inline;
+}
+
+/* The container */
+.gender__container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Hide the browser's default radio button */
+.radio-gender-group>.gender__container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    height: 21px;
+    width: 21px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+}
+
+/* When the radio button is checked, add a blue background */
+.gender__container input:checked~.checkmark {
+    background-color: #e30c18;
+    border: 0px;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.gender__container input:checked~.checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.gender__container .checkmark:after {
+    top: 7px;
+    left: 7px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: white;
+}
+
+#gridRadios1:focus,
+#gridRadios2:focus {
+    box-shadow: none;
+    padding-left: 10px;
+}

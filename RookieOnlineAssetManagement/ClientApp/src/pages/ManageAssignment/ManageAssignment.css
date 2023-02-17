@@ -1,0 +1,12 @@
+.td__cell {
+    margin: 7px 0px 7px 1px;
+}
+
+.active>.page-link, .page-link.active {
+    background-color:  var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+td button:disabled {
+    opacity: 0.5;
+}

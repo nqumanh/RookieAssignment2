@@ -1,0 +1,96 @@
+.header {
+    background-color: var(--primary-color);
+    font-weight: 500;
+}
+
+.username-user,
+.header__breadcrumb {
+    font-size: 1.3em;
+    color: #fff;
+    text-decoration: none;
+}
+.header__breadcrumb:hover {
+    color: #fff;
+}
+
+.text-nash-red {
+    color: var(--primary-color);
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+.modal-backdrop.show {
+    opacity: 0.1;
+}
+
+.input-password_icon--lower {
+    position: absolute;
+    top: 5px;
+    right: 5%;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.modal__header,
+.modal__body {
+    border: 1px solid grey;
+}
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.modal__header {
+    border-bottom: solid black 1px;
+    background-color: #eff1f5;
+    color: var(--primary-color);
+    font-weight: 900;
+}
+
+.modal__header {
+    padding: 16px 44px;
+}
+
+.modal__body {
+    padding: 20px 44px 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.modal__btn {
+    display: block;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    transition: opacity linear 0.2s;
+}
+
+.modal__btn:hover {
+    background-color: #e9424d;
+    opacity: 0.8;
+}
+
+.input-group__label {
+    line-height: 30px;
+    padding-right: 10px;
+}
+
+.modal__imput-group {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,135 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap');
+
+:root {
+    /*===== Colors ====*/
+    --primary-color: #cf2338;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.page-title {
+    color: var(--primary-color);
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.icon-disabled {
+    opacity: .4;
+    pointer-events: none;
+}
+
+.bg-nash-red {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.text-nash-red {
+    color: var(--primary-color);
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+.pagination > li > a {
+    background-color: white;
+    color: var(--primary-color);
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover {
+    color: var(--primary-color);
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+.pagination > .active > a {
+    color: white !important;
+    background-color: var(--primary-color) !important;
+    border: solid 1px var(--primary-color) !important;
+}
+
+.pagination > .active > a:hover {
+    background-color: var(--primary-color) !important;
+    border: solid 1px var(--primary-color);
+    color: white;
+}
+
+table tbody tr {
+    transition: background-color .18s ease-in-out;
+}
+
+table tbody tr:hover {
+    background-color: rgb(215, 213, 213);
+    cursor: pointer;
+}
+
+/* Loading for button */
+.btn-custom-loading {
+    position: relative;
+    transition: all 0.3s;
+}
+
+.btn-custom-loading .loader {
+    width: 20px;
+    height: 20px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    border-left: 3px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: spin 1s infinite linear forwards;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.btn-custom-loading.is-loading {
+    pointer-events: none;
+    opacity: 0.8;
+}
+
+.btn-custom-loading.is-loading .loader {
+    opacity: 1;
+    visibility: visible;
+}
+
+.btn-custom-loading.is-loading span {
+    visibility: hidden;
+}
+
+@keyframes spin {
+    to {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+
+th {
+    padding: 0!important;
+    border-bottom: 3px solid #adadad;
+}

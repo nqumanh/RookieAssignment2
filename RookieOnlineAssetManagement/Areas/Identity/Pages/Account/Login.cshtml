@@ -1,0 +1,50 @@
+﻿@page
+@using RookieOnlineAssetManagement.Areas.Identity.Pages.Account
+@model LoginModel
+
+@{
+    Layout = null;
+}
+<title>Login</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css" >
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<link href="~/css/login.css" rel="stylesheet" />
+
+
+<div class="login-area">
+    <div class="login-form-wrap">
+        <img src="~/images/logo-nashtech.png" class="logo-login" alt="logo nashtech" />
+        <h1 class="m-0 text-center login-title">Sign in your account</h1>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <form id="account" method="post">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Input.UserName">Username</label>
+                <input type="text" class="form-control" asp-for="Input.UserName" id="inputUsername" />
+                <span asp-validation-for="Input.UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label class="form-label" asp-for="Input.Password">Password</label>
+                <div style="position: relative;">
+                <input type="password" class="form-control" asp-for="Input.Password" id="inputPassword" />
+                    <i class="bi bi-eye-fill" id="togglePassword" onclick="HandleShowPassword()" style="position: absolute;right: 10px;top: 35%;"></i>
+                </div>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn-login btn-custom-loading mb-3" disabled >
+                <div class="loader"></div>
+                <span>Sign in</span>
+            </button>
+
+        </form>
+    </div>
+</div>
+
+<script src="~/js/loginValidate.js" asp-append-version="true"></script>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

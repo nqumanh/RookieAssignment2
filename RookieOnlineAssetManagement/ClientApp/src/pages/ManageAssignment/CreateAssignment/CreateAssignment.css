@@ -1,0 +1,36 @@
+.create-assigment-form textarea {
+    border: 2px solid #aaaaaa !important;
+}
+
+.create-assigment-form #user {
+    border: 2px solid #aaaaaa !important;
+    height: 100%;
+}
+
+.create-assigment-form #asset {
+    border: 2px solid #aaaaaa !important;
+    height: 100%;
+}
+
+.create-assigment-form .date-picker {
+    border: 2px solid #aaaaaa !important;
+}
+
+.equal-height {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.select-user-dropdown {
+    width: 100%;
+    left: -1px;
+    top: 0;
+    z-index: 1;
+    border: 1px solid #aaa;
+    border-radius: 0;
+}
+
+.select-user-dropdown input {
+    border: 1px solid #6c757d;
+}

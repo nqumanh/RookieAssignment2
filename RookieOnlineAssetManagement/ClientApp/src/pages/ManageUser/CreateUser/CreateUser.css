@@ -1,0 +1,112 @@
+.form-btn {
+    padding: 5px 20px !important;
+    font-size: 1em !important;
+    box-sizing: border-box;
+}
+
+.form-btn__save {
+    background-color: #e30c18 !important;
+    color: #fff !important;
+    border: 3px solid #e30c18 !important;
+}
+
+.form-btn__cancel {
+    border: 3px solid #adb1b6 !important;
+    color: #848b91 !important;
+}
+
+.create-user-form input {
+    border: 3px solid #aaaaaa;
+    height: 100%
+}
+
+.create-user-form .date-picker {
+    border: 3px solid #aaaaaa !important;
+}
+
+.create-user-form .date-picker__error-message {
+    border: 3px solid red !important;
+}
+
+.react-datepicker__input-container,
+.react-datepicker__input-container>input,
+.react-datepicker-wrapper {
+    height: 100%;
+}
+
+.input-field__error {
+    border: 3px solid red;
+}
+
+.error-message {
+    color: #bf1650;
+}
+
+#userType {
+    background-image: url("data:image/svg+xml,<svg width='30' height='24' xmlns='http://www.w3.org/2000/svg'><path d='m0,6l12,12l12,-12l-24,0z'/><path fill='none' d='m0,0l24,0l0,24l-24,0l0,-24z'/></svg>");
+    border: 3px solid #aaaaaa;
+    height: 100%;
+}
+
+/* The container */
+.gender__container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/* Hide the browser's default radio button */
+.radio-gender-group>.gender__container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+    position: absolute;
+    top: 4px;
+    left: 0;
+    height: 21px;
+    width: 21px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+}
+
+/* When the radio button is checked, add a blue background */
+.gender__container input:checked~.checkmark {
+    background-color: #e30c18;
+    border: 0px;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.gender__container input:checked~.checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.gender__container .checkmark:after {
+    top: 7px;
+    left: 7px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: white;
+}
+
+#gridRadios1:focus,
+#gridRadios2:focus {
+    box-shadow: none;
+    padding-left: 10px;
+}

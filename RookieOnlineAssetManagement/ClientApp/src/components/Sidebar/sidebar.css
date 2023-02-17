@@ -1,0 +1,13 @@
+.sidebar-title {
+    font-size: 1em;
+}
+nav ul li {
+    list-style-type: none;
+}
+.sidebar-nav__link {
+    font-size: 1.3em;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    font-weight: bold;
+}
